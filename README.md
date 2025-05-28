@@ -18,9 +18,8 @@ A simple and interactive currency converter web application built with **React**
 
 ## 📸 Screenshot
 
-## 📸 Screenshot
 
-![Currency Converter Screenshot](./screenshot.png)
+![Currency Converter Screenshot](.Screenshot.png)
 
 
 
