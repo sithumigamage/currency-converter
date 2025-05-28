@@ -14,9 +14,12 @@ A simple and interactive currency converter web application built with **React**
 - 📱 Responsive design with background image
 - ⚡ Fast and modern development with Vite
 
+
+
 ## 📸 Screenshot
 
-![Currency Converter Screenshot](https://img.freepik.com/free-vector/collection-virtual-foreign-currency-symbol-background-with-empty-frame_1017-52490.jpg)
+![Currency Converter Screenshot](.screenshot.png)
+
 
 ## 🛠️ Tech Stack
 
