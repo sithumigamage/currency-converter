@@ -20,7 +20,7 @@ A simple and interactive currency converter web application built with **React**
 
 ## 📸 Screenshot
 
-![Currency Converter Screenshot](./assets/screenshot.png)
+![Currency Converter Screenshot](./screenshot.png)
 
 
 
